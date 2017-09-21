@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="9688" started-at="2017-09-21T11:15:15Z" finished-at="2017-09-21T11:15:25Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="9688" started-at="2017-09-21T11:15:15Z" finished-at="2017-09-21T11:15:25Z">
+      <class name="tst.first">
+        <test-method status="PASS" signature="chk()[pri:0, instance:tst.first@6bdf28bb]" name="chk" duration-ms="9663" started-at="2017-09-21T16:45:15Z" finished-at="2017-09-21T16:45:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chk -->
+      </class> <!-- tst.first -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
