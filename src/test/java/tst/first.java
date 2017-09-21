@@ -12,7 +12,7 @@ public class first {
 		WebDriver d=new FirefoxDriver();
 		d.manage().window().maximize();
 		d.get("https://www.google.co.in");
-		System.out.println("*********modified*******");
+		System.out.println("*********modified 23*******");
 		d.close();
 		//Assert.assertTrue(false);
 	}
